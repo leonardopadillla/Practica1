@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace _2018AN601.Controllers
+namespace Practica1.Controllers
 {
     [ApiController]
     [Route("[controller]")]

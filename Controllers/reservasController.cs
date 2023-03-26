@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using _2018AN601.Models;
+using Practica1.Models;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
-namespace _2018AN601
+namespace Practica1
 {
     [ApiController]
     public class reservasController : ControllerBase

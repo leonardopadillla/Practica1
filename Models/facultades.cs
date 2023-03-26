@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace _2018AN601.Models
+namespace Practica1.Models
 {
     public class facultades{
     

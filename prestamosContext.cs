@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
-using _2018AN601.Models;
+using Practica1.Models;
 
-namespace _2018AN601
+namespace Practica1
 {
     public class prestamosContext : DbContext 
     {
